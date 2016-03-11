@@ -5,9 +5,6 @@ import java.util.List;
 
 public class ArrayListExample {
 
-	/**
-	 * @param args
-	 */
 	public static void main(String[] args) {
 		ArrayList<Integer> list = new ArrayList<Integer>();
 		int[] arr = {10,5,7,2,8,3,1};
